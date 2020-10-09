@@ -1,15 +1,15 @@
 Tools used:
 
-Repository- GitHub
-Jenkins Pipeline - CI/CD
-Maven - Build tool
-Containerization - Docker for application Image
-Nexus Artifactory - Private Repository for storing docker images
-Helm Charts - Collection of files that describe a related set of Kubernetes resources
-Monitoring - Promentheus for monitoring Docker containers and CADVISOR to expose promentheus matrix
-Sonar Qube - Testing the jar file
-Splunk - Log monitoring
-AWS- VPC,Route53
+*Repository- GitHub
+*Jenkins Pipeline - CI/CD
+*Maven - Build tool
+*Containerization - Docker for application Image
+*Nexus Artifactory - Private Repository for storing docker images
+*Helm Charts - Collection of files that describe a related set of Kubernetes resources
+*Monitoring - Promentheus for monitoring Docker containers and CADVISOR to expose promentheus matrix
+*Sonar Qube - Testing the jar file
+*Splunk - Log monitoring
+*AWS- VPC,Route53
 
 Steps:
 
